@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+peft>=0.4.0
+evaluate>=0.4.0
+tqdm>=4.65.0
+gitpython>=3.1.30
+matplotlib>=3.7.1
+python-Levenshtein>=0.21.0
+accelerate>=0.20.0
+bitsandbytes>=0.39.0
+tensorboard>=2.12.0
+nltk>=3.8.1
